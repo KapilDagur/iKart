@@ -1,0 +1,8 @@
+#Virtual Envoriments.
+.venv
+.venv/
+
+#Python Cached Files.
+__pycache__
+*.pyc
+
